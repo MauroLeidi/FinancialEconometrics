@@ -1,6 +1,8 @@
 # FinancialEconometrics
 Project for financial econometrics course FIN-407
 
+Link for overleaf repo: https://www.overleaf.com/project/626f06d89e22a54380d4805e
+
 Sentiment analysis of Tesla-related tweets and predictive power on returns.
 
 Research question: Can one elaborate a trading strategy based on Tesla-related tweets?
